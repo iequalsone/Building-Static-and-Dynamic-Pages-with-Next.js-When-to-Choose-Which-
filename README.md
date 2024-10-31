@@ -1,0 +1,1 @@
+# Building-Static-and-Dynamic-Pages-with-Next.js-When-to-Choose-Which-
