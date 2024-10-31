@@ -35,9 +35,9 @@ For pages that require periodic updates, ISR is an excellent hybrid solution. Th
 Explore each code example to understand how **static generation**, **SSR**, and **ISR** are implemented in Next.js with TypeScript. Each example can be found in its respective directory under `app/`.
 
 ## 📄 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/iequalsone/Building-Static-and-Dynamic-Pages-with-Next.js-When-to-Choose-Which-/blob/main/LICENSE) file for details.
 
 ## 💬 Contributing
 Contributions to improve these examples or add additional use cases are welcome! Please fork the repository and open a pull request with your suggestions.
 
-Thank you for exploring these examples! For a full breakdown of best practices, check out the LinkedIn article accompanying this repository.
+Thank you for exploring these examples! For a full breakdown of best practices, check out the [LinkedIn article](https://www.linkedin.com/pulse/building-static-dynamic-pages-nextjs-when-choose-which-jon-howard-h3l5e) accompanying this repository.
